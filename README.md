@@ -1,3 +1,4 @@
+[![C/C++ CI](https://github.com/rabeeanaseer6-lab/cpp-matching-engine/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rabeeanaseer6-lab/cpp-matching-engine/actions/workflows/c-cpp.yml)
 # 🚀 HPS-MATCH — C++20 High-Performance Price-Time Priority Matching Engine
 
 ![C++20](https://img.shields.io/badge/C%2B%2B-20-blue?logo=cplusplus)
